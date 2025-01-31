@@ -27,7 +27,7 @@ A simple note-taking app built using HTML, CSS, and JavaScript for a seamless an
 
    ```bash
 
-   git clone <repository_url>
+   git clone https://github.com/guruprasadgp22/Note-Taking-Application.git
 
    ```
 
